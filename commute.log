@@ -1,0 +1,36 @@
+🎧 Starting Commute Curator... (Day: 6, Date Night: false)
+❌ Failed to fetch WSJ Tech News Briefing: Status code 404
+❌ Failed to fetch Off-Nominal: Status code 404
+❌ Failed to fetch Revisionist History: Status code 404
+❌ Failed to fetch Modern Love: Status code 404
+❌ Failed to fetch Dwarkesh Podcast: Status code 404
+[5m] START: NPR News Now: NPR News: 02-21-2026 4PM EST
+
+--- Selected for Commute ---
+[49m] MECO (Main Engine Cut Off): T+319: Headlines, December 22, 2025 (Score: 85)
+[31m] MECO (Main Engine Cut Off): T+321: Artemis II, New Glenn’s First Reflight, Blue Origin’s TeraWave, and Tory Bruno’s Job Switch (Score: 55)
+
+Total: 85 mins
+
+Pushing to GitHub Repo...
+To https://github.com/timlpratt/tim-commute-feed.git
+   7deb695..db4783c  main -> main
+✅ Success! Subscribe to:
+https://timlpratt.github.io/tim-commute-feed/commute.xml
+🎧 Starting Commute Curator... (Day: 1, Date Night: false)
+❌ Failed to fetch Revisionist History: Status code 404
+❌ Failed to fetch Modern Love: Status code 404
+❌ Failed to fetch Dwarkesh Podcast: Status code 404
+[5m] START: NPR News Now: NPR News: 02-23-2026 5PM EST
+
+--- Selected for Commute ---
+[43m] Radiolab: Song of the Cerebellum (Score: 55)
+[27m] Radiolab: Gray's Donation (Score: 35)
+
+Total: 75 mins
+
+Pushing to GitHub Repo...
+To https://github.com/timlpratt/tim-commute-feed.git
+   77c220d..b7f0d49  main -> main
+✅ Success! Subscribe to:
+https://timlpratt.github.io/tim-commute-feed/commute.xml

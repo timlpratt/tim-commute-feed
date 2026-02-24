@@ -1,0 +1,28 @@
+{
+  "target_duration_minutes": 70,
+  "gist_id": "timlpratt/tim-commute-feed",
+  "feeds": [
+    { "name": "NPR News Now", "url": "https://feeds.npr.org/500005/podcast.xml", "tags": ["news", "briefing", "start"] },
+    { "name": "WSJ Tech News Briefing", "url": "https://video-api.wsj.com/podcast/rss/wsj/tech-news-briefing", "tags": ["tech", "news", "briefing"] },
+    { "name": "MECO (Main Engine Cut Off)", "url": "https://mainenginecutoff.com/feed.xml", "tags": ["space", "tech", "short"] },
+    { "name": "Off-Nominal", "url": "https://feeds.simplecast.com/iyz_ESAp", "tags": ["space", "casual", "smart"] },
+    { "name": "Lex Fridman Podcast", "url": "https://lexfridman.com/feed/podcast/", "tags": ["interview", "tech", "deep"] },
+    { "name": "The Rest Is History", "url": "https://feeds.megaphone.fm/GLT4787413333", "tags": ["history", "banter", "smart"] },
+    { "name": "99% Invisible", "url": "https://feeds.simplecast.com/BqbsxVfO", "tags": ["design", "story", "calm"] },
+    { "name": "Revisionist History", "url": "https://feeds.megaphone.fm/revisionisthistory", "tags": ["history", "sociology", "story"] },
+    { "name": "Modern Love", "url": "https://feeds.nytimes.com/ndt/modern-love", "tags": ["love", "story", "date_night"] },
+    { "name": "Conan O’Brien Needs A Friend", "url": "https://feeds.simplecast.com/dHoohVNH", "tags": ["comedy", "interview", "fun", "date_night"] },
+    { "name": "Heavyweight", "url": "https://feeds.megaphone.fm/heavyweight", "tags": ["story", "emotion", "human"] },
+    { "name": "Radiolab", "url": "http://feeds.wnyc.org/radiolab", "tags": ["science", "wonder", "story"] },
+    { "name": "Hardcore History", "url": "https://feeds.feedburner.com/dancarlin/history", "tags": ["history", "long", "epic"] },
+    { "name": "Acquired", "url": "https://feeds.transistor.fm/acquired", "tags": ["business", "tech", "history"] },
+    { "name": "Dwarkesh Podcast", "url": "https://dwarkeshpatel.podbean.com/feed.xml", "tags": ["tech", "ai", "deep"] }
+  ],
+  "rules": {
+    "block_keywords": ["politics", "election", "crisis", "scandal", "gossip", "celebrity"],
+    "boost_keywords": ["history", "science", "engineering", "manufacturing", "semiconductor", "physics", "SpaceX", "NASA", "Starship", "Blue Origin", "Skylab", "orbital", "rocket"],
+    "boost_guests": ["Elon Musk", "Sam Altman", "Jensen Huang", "Walter Isaacson", "Rick Rubin", "Gwynne Shotwell", "Peter Beck"],
+    "datenight_keywords": ["love", "relationship", "dating", "romance", "marriage", "comedy", "funny"],
+    "datenight_block": ["tech", "business", "war", "finance", "industry", "semiconductor"]
+  }
+}
