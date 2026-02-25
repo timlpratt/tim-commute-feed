@@ -5,20 +5,20 @@
     <description>Smart, relaxing mix for the drive home.</description>
     <link>https://timlpratt.github.io/tim-commute-feed/</link>
     <language>en-us</language>
-    <pubDate>Wed, 25 Feb 2026 01:00:21 GMT</pubDate>
+    <pubDate>Wed, 25 Feb 2026 23:00:09 GMT</pubDate>
     <itunes:author>TimBot</itunes:author>
     <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Robot_icon.svg/1024px-Robot_icon.svg.png"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     
     <item>
-      <title>[NPR News Now] NPR News: 02-24-2026 7PM EST</title>
-      <description><![CDATA[NPR News: 02-24-2026 7PM EST
+      <title>[NPR News Now] NPR News: 02-25-2026 5PM EST</title>
+      <description><![CDATA[NPR News: 02-25-2026 5PM EST
 Learn more about sponsor message choices: podcastchoices.com/adchoices
 NPR Privacy Policy]]></description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/traffic.megaphone.fm/NPR1452912369.mp3?t=podcast&amp;e=nx-s1-20260224-1900-long&amp;p=500005&amp;d=280&amp;size=4480567" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">d73ef87e-bbec-49c0-933c-eacb94f01c43</guid>
-      <pubDate>Wed, 25 Feb 2026 00:10:52 GMT</pubDate>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/traffic.megaphone.fm/NPR8668124357.mp3?t=podcast&amp;e=nx-s1-20260225-1700-long&amp;p=500005&amp;d=280&amp;size=4480567" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">1b4013d8-bed2-4082-9fc7-92eef47e5dae</guid>
+      <pubDate>Wed, 25 Feb 2026 22:10:35 GMT</pubDate>
       <itunes:duration>280</itunes:duration>
     </item>
     <item>
