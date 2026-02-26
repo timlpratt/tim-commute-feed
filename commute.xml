@@ -5,102 +5,66 @@
     <description>Smart, relaxing mix for the drive home.</description>
     <link>https://timlpratt.github.io/tim-commute-feed/</link>
     <language>en-us</language>
-    <pubDate>Thu, 26 Feb 2026 00:50:34 GMT</pubDate>
+    <pubDate>Thu, 26 Feb 2026 01:00:37 GMT</pubDate>
     <itunes:author>TimBot</itunes:author>
     <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Robot_icon.svg/1024px-Robot_icon.svg.png"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     
     <item>
-      <title>[NPR News Now] NPR News: 02-25-2026 6PM EST</title>
-      <description><![CDATA[NPR News: 02-25-2026 6PM EST
+      <title>[NPR News Now] NPR News: 02-25-2026 5PM EST</title>
+      <description><![CDATA[NPR News: 02-25-2026 5PM EST
 Learn more about sponsor message choices: podcastchoices.com/adchoices
 NPR Privacy Policy]]></description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/traffic.megaphone.fm/NPR5406639544.mp3?t=podcast&amp;e=nx-s1-20260225-1800-long&amp;p=500005&amp;d=280&amp;size=4480567" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">0650e521-9714-4fa4-8ce2-0d864dacbc39</guid>
-      <pubDate>Wed, 25 Feb 2026 23:10:19 GMT</pubDate>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/traffic.megaphone.fm/NPR8668124357.mp3?t=podcast&amp;e=nx-s1-20260225-1700-long&amp;p=500005&amp;d=280&amp;size=4480567" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">1b4013d8-bed2-4082-9fc7-92eef47e5dae</guid>
+      <pubDate>Wed, 25 Feb 2026 22:10:35 GMT</pubDate>
       <itunes:duration>280</itunes:duration>
     </item>
     <item>
-      <title>[Off-Nominal] 228 - The SpaceX Reverse Mortgage</title>
-      <description><![CDATA[Mars is dead! Long live the Moon! Jake and Anthony kick around the recent flurry of SpaceX news—the IPO, data centers, and a focus on the Moon.
-Topics
+      <title>[Radiolab] Time is Honey</title>
+      <description><![CDATA[In the early 2000s, Sunil Nakrani felt stuck. 
+Back then, websites crashed all the time. When Sunil noticed this, he decided he was going to fix the internet. But after nearly a year of studying the architecture of the web, he was no closer to an answer. In desperation, Sunil sent out a raft of cold emails to engineering professors. He hoped someone, anyone, could help him figure this out. Eventually, he learned that the internet could only be fixed if he paid attention to the humble honeybee. 
+This is the story of the Honeybee Algorithm: How tech used honeybees to build the internet as we know it.
+Special thanks to John Bartholdi, John Vande Vate, Sammy Ramsey, James Marshall, Steve Strogatz, Duc Pham, and Heiko Hamann.
+We found out about this story thanks to our friends at AAAS, who run the one and only Golden Goose Awards. The award goes to government funded science that sounds trivial or bizarre, but goes on to change the world. The Honeybee Algorithm won a Golden Goose Award back in 2016 (https://zpr.io/ePxaaYja6YF4). Thank you to our friends there: Erin Heath, Gwendolyn Bogard, Valeria Sabate, Joanne Padron Carney, and Meredith Asbury. 
 
-Off-Nominal - YouTube
-Episode 228 - The SpaceX Reverse Mortgage - YouTube
-SpaceX acquires xAI, plans to launch a massive satellite constellation to power it - Ars Technica
-Why would Elon Musk pivot from Mars to the Moon all of a sudden? - Ars Technica
-SpaceX Sets $800 Billion Valuation, Confirms 2026 IPO Plans - Bloomberg
-SpaceX-xAI Deal Blurs Musk’s Once-Clear Space Exploration Mission - Bloomberg
-Here's why Blue Origin just ended its suborbital space tourism program - Ars Technica
+EPISODE CREDITS: 
+Reported by - Latif Nasser
+with help from - Maria Paz Gutiérrez
+Produced by - Maria Paz Gutiérrez, Annie McEwen and Pat Walters
+and Edited by  - Pat Walters
+EPISODE CITATIONS:
+Videos - 
 
-Follow Off-Nominal
+Golden Goose Award video about 2016 winners (https://zpr.io/eXwTJKGL6F8S)
 
-Subscribe to the show! - Off-Nominal
-Support the show, join the Discord
-Off-Nominal (@offnom) / Twitter
-Off-Nominal (@offnom@spacey.space) - Spacey Space
+Books -
 
-Follow Jake
-
-WeMartians Podcast - Follow Humanity's Journey to Mars
-WeMartians Podcast (@We_Martians) | Twitter
-Jake Robins (@JakeOnOrbit) | Twitter
-Jake Robins (@JakeOnOrbit@spacey.space) - Spacey Space
-
-Follow Anthony
-
-Main Engine Cut Off
-Main Engine Cut Off (@WeHaveMECO) | Twitter
-Main Engine Cut Off (@meco@spacey.space) - Spacey Space
-Anthony Colangelo (@acolangelo) | Twitter
-Anthony Colangelo (@acolangelo@jawns.club) - jawns.club 🐘
-
-Off-Nominal Merchandise
-
-Off-Nominal Logo Tee
-WeMartians Shop | MECO Shop]]></description>
-      <enclosure url="https://cdn.simplecast.com/audio/0dabfb01-42a8-4e13-a744-c84d1aa5e518/episodes/edb17135-2af8-4663-bfea-fafab9128be6/audio/69493d05-f232-4597-9f23-1c3e108e7bc9/default_tc.mp3?aid=rss_feed&amp;feed=iyz_ESAp" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">28c98cc5-33ef-4197-83d4-8594559edaca</guid>
-      <pubDate>Fri, 13 Feb 2026 01:11:45 GMT</pubDate>
-      <itunes:duration>3638</itunes:duration>
+The Wisdom of the Hive: The Social Physiology of Honeybee Colonies (https://www.hup.harvard.edu/books/9780674953765) by Thomas D. Seeley (1995, Harvard University Press)
+Piping Hot Bees & Boisterous Buzz-Runners: 20 Mysteries of Honey Bee Behavior Solved (https://zpr.io/tNDqkw372Rhr) by Thomas D. Seeley
+And, Paths of Pollen (https://zpr.io/cqRPpAdGRwMi) by Stephen Humphrey. One of our former transcribers who we recently learned had hidden talents far beyond the invaluable work they did for us. This book is only tangentially related to the content in the episode, but super cool in its own right.
+ 
+Sign up for our newsletter!! It includes short essays, recommendations, and details about other ways to interact with the show. Signup (https://radiolab.org/newsletter)!
+Radiolab is supported by listeners like you. Support Radiolab by becoming a member of The Lab (https://members.radiolab.org/) today.
+Follow our show on Instagram, Twitter and Facebook @radiolab, and share your thoughts with us by emailing radiolab@wnyc.org.
+Leadership support for Radiolab’s science programming is provided by the Simons Foundation and the John Templeton Foundation. Foundational support for Radiolab was provided by the Alfred P. Sloan Foundation.]]></description>
+      <enclosure url="https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/eda016a8-9bce-4155-8897-039e69f66557/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&amp;awEpisodeId=eda016a8-9bce-4155-8897-039e69f66557&amp;feed=EmVW7VGp" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">c42a0dfd-2888-48f1-b6f7-b50b1dc75225</guid>
+      <pubDate>Fri, 13 Feb 2026 17:00:00 GMT</pubDate>
+      <itunes:duration>2311</itunes:duration>
     </item>
     <item>
-      <title>[The Rest Is History] Greatest Paintings: The French Revolution - Millet&apos;s Angelus</title>
-      <description><![CDATA[Why was Jean-François Millet’s The Angelus considered highly controversial and politically divisive in pre-industrial 19th-century France? What do we know about his personal background, his ambiguous relationship with his subjects, and the scene of the famous Barbizon School? And, how did artists like Salvador Dalí and Vincent Van Gogh draw inspiration and reinterpret the painting? 
+      <title>[99% Invisible] The Em Dash</title>
+      <description><![CDATA[The strange history of a punctuation mark that makes writing feel human, and why people now think it proves the opposite.
+Subscribe to SiriusXM Podcasts+ to listen to new episodes of 99% Invisible ad-free and a whole week early. 
+Start a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus. 
 
-
-
-In this new The Rest Is History Club series, Tom is joined by art critic and author Laura Cumming to discuss the histories behind famous paintings and put them in their historical contexts.
-
-
-
-To hear the full episode, and all the other exclusive new episodes from Laura and Tom's paintings  series, coming out every Wednesday for the next four weeks, join The Rest is History Club at therestishistory.com
-
-
-
-_______
-
-Twitter:
-
-@TheRestHistory
-
-@holland_tom
-
-@dcsandbrook
-
-Video Editors: Jack Meek + Harry Swan
-
-Social Producer: Harry Balden
-
-Producers: Tabby Syrett & Aaliyah Akude
-
-Executive Producer: Dom Johnson
-Learn more about your ad choices. Visit podcastchoices.com/adchoices]]></description>
-      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/GLT2054254763.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">c6ceba0e-10b7-11f1-aa31-b7e91aec3122</guid>
-      <pubDate>Wed, 25 Feb 2026 00:05:00 GMT</pubDate>
-      <itunes:duration>394</itunes:duration>
+ Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.]]></description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/89ef4b14-88be-4e23-8cfd-654008e9a224/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&amp;awEpisodeId=89ef4b14-88be-4e23-8cfd-654008e9a224&amp;feed=BqbsxVfO" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">cef0b883-9c04-4ff8-8c3a-e197d6dca301</guid>
+      <pubDate>Tue, 03 Feb 2026 18:15:00 GMT</pubDate>
+      <itunes:duration>2362</itunes:duration>
     </item>
   </channel>
 </rss>
