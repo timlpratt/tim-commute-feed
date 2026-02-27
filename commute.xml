@@ -1,57 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Tim's Evening Commute (Date Night)</title>
+    <title>Tim's Evening Commute</title>
     <description>Smart, relaxing mix for the drive home.</description>
     <link>https://timlpratt.github.io/tim-commute-feed/</link>
     <language>en-us</language>
-    <pubDate>Thu, 26 Feb 2026 22:00:14 GMT</pubDate>
+    <pubDate>Fri, 27 Feb 2026 23:00:12 GMT</pubDate>
     <itunes:author>TimBot</itunes:author>
     <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Robot_icon.svg/1024px-Robot_icon.svg.png"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     
     <item>
-      <title>[NPR News Now] NPR News: 02-26-2026 4PM EST</title>
-      <description><![CDATA[NPR News: 02-26-2026 4PM EST
+      <title>[NPR News Now] NPR News: 02-27-2026 5PM EST</title>
+      <description><![CDATA[NPR News: 02-27-2026 5PM EST
 To manage podcast ad preferences, review the links below:
 See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.
 Learn more about sponsor message choices: podcastchoices.com/adchoices
 NPR Privacy Policy]]></description>
-      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/traffic.megaphone.fm/NPR4655331618.mp3?t=podcast&amp;e=nx-s1-20260226-1600-long&amp;p=500005&amp;d=280&amp;size=4480567" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">b59a657d-3e32-4c63-bb9f-9342e1ee6f84</guid>
-      <pubDate>Thu, 26 Feb 2026 21:10:41 GMT</pubDate>
+      <enclosure url="https://prfx.byspotify.com/e/play.podtrac.com/npr-500005/traffic.megaphone.fm/NPR6307382356.mp3?t=podcast&amp;e=nx-s1-20260227-1700-long&amp;p=500005&amp;d=280&amp;size=4480567" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">6a243786-6ee5-4338-9b9c-427616705fb8</guid>
+      <pubDate>Fri, 27 Feb 2026 22:10:26 GMT</pubDate>
       <itunes:duration>280</itunes:duration>
     </item>
     <item>
-      <title>[Conan O’Brien Needs A Friend] Denis Leary</title>
-      <description><![CDATA[Comedian and actor Denis Leary feels like he could give a f*** about being Conan O’Brien’s friend.
-
- 
-Denis sits down with Conan to discuss their shared Worcester roots and finding out they’re related, making healthy lifestyle choices, founding the Emerson Comedy Workshop while in college, and shooting his television series Going Dutch entirely in Ireland.
- 
-For Conan videos, tour dates and more visit TeamCoco.com.
-Got a question for Conan? Call our voicemail: (669) 587-2847.
-Get access to all the podcasts you love, music channels and radio shows with the SiriusXM App! Get 3 months free using this show link: https://siriusxm.com/conan.
-
- Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.]]></description>
-      <enclosure url="https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/74a73a35-c305-4f66-a448-c89186e20bc2/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&amp;awEpisodeId=74a73a35-c305-4f66-a448-c89186e20bc2&amp;feed=dHoohVNH" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">90771f40-126a-48e3-b798-fed8130530ce</guid>
-      <pubDate>Mon, 23 Feb 2026 05:05:00 GMT</pubDate>
-      <itunes:duration>3904</itunes:duration>
+      <title>[Off-Nominal] 230 - Bequeathed in the divorce</title>
+      <description><![CDATA[Jake and Anthony catch up on Starliner’s no good very bad report, Artemis II’s no good very bad fueling tests, and Vulcan’s no good very bad solid rocket boosters.
+Topics
+Off-Nominal - YouTube
+Episode 230 - Bequeathed in the divorce - YouTube
+NASA Invites Media to Discuss Next Steps for Artemis Campaign - NASA
+NASA says it needs to haul the Artemis II rocket back to the hangar for repairs - Ars Technica
+NASA chief classifies Starliner flight as "Type A" mishap, says agency made mistakes - Ars Technica
+Bowersox to retire from NASA - SpaceNews
+Audrey Decker on X: “Senate Commerce's reauth bill would prohibit NASA from acquiring more than 50% of launch services from one provider, according to bill text I obtained. SpaceX currently dominates the market. However, bill says the administrator can seek waivers”
+ULA isn't making the Space Force's GPS interference problem any easier - Ars Technica
+Follow Off-Nominal
+Subscribe to the show! - Off-Nominal
+Support the show, join the Discord
+Off-Nominal (@offnom) / Twitter
+Off-Nominal (@offnom@spacey.space) - Spacey Space
+Follow Jake
+WeMartians Podcast - Follow Humanity's Journey to Mars
+WeMartians Podcast (@We_Martians) | Twitter
+Jake Robins (@JakeOnOrbit) | Twitter
+Jake Robins (@JakeOnOrbit@spacey.space) - Spacey Space
+Follow Anthony
+Main Engine Cut Off
+Main Engine Cut Off (@WeHaveMECO) | Twitter
+Main Engine Cut Off (@meco@spacey.space) - Spacey Space
+Anthony Colangelo (@acolangelo) | Twitter
+Anthony Colangelo (@acolangelo@jawns.club) - jawns.club 🐘
+Off-Nominal Merchandise
+Off-Nominal Logo Tee
+WeMartians Shop | MECO Shop]]></description>
+      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/5f3c0a1f-fe19-41e7-9748-2f7820d3bec6/0dabfb01-42a8-4e13-a744-c84d1aa5e518/episodes/audio/group/a7878850-2bbf-465e-bb8b-6efdf0e53911/group-item/7f93a3a8-27dd-4abb-bd9c-9e5ad44396de/128_default_tc.mp3?aid=rss_feed&amp;feed=iyz_ESAp" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">a3150b3a-a67a-402d-9764-bd51c1f6496a</guid>
+      <pubDate>Fri, 27 Feb 2026 02:53:22 GMT</pubDate>
+      <itunes:duration>3600</itunes:duration>
     </item>
     <item>
-      <title>[Conan O’Brien Needs A Friend] Staff Review With Brian Kiley</title>
-      <description><![CDATA[Conan sits down with comic and staff writer Brian Kiley for a look back on their storied partnership over the years.
- 
-Wanna get a chance to talk to Conan? Submit here: teamcoco.com/apply
-Get access to all the podcasts you love, music channels and radio shows with the SiriusXM App! Get 3 months free using this show link: https://siriusxm.com/conan.
-
- Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.]]></description>
-      <enclosure url="https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/d799d1a1-65b0-49ea-82b5-e479cc9ce8e1/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&amp;awEpisodeId=d799d1a1-65b0-49ea-82b5-e479cc9ce8e1&amp;feed=dHoohVNH" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">aae97f4f-1348-42f9-b2fd-cd24d1eb39e5</guid>
-      <pubDate>Thu, 26 Feb 2026 05:05:00 GMT</pubDate>
-      <itunes:duration>1612</itunes:duration>
+      <title>[MECO (Main Engine Cut Off)] T+323: The Artemis Roadmap Shakeup</title>
+      <description><![CDATA[NASA Administrator Jared Isaacman announced a sweeping roadmap change to the Artemis program this morning—seemingly cancelling the EUS, Gateway, and all SLS upgrades, and instead pursuing the once-and-future annual launch cadence of SLS.
+This episode of Main Engine Cut Off is brought to you by 33 executive producers—David, Russell, Pat, Better Every Day Studios, Joonas, Josh from Impulse, Theo and Violet, Steve, Jan, Will and Lars from Agile, Miles O’Brien, Kris, Fred, Stealth Julian, Frank, Joakim, Ryan, Warren, Matt, The Astrogators at SEE, Joel, Lee, Tim Dodd (the Everyday Astronaut!), Donald, Natasha Tsakos, Heiko, and four anonymous—and hundreds of supporters.
+Topics
+NASA shakes up its Artemis program to speed up lunar return - Ars Technica
+NASA Adds Mission to Artemis Lunar Program, Updates Architecture - NASA
+NASA Administrator Jared Isaacman on X: “President Trump gave the world the Artemis Program, and NASA and our partners have the plan to deliver. We will standardize architecture where possible, add missions and accelerate flight rate, execute in an evolutionary way, and safely return American astronauts to the Moon…”
+NASA Administrator Jared Isaacman on X: “…and this is how we’re going back.”
+Teams Begin Artemis II Repairs in Vehicle Assembly Building - NASA
+The Show
+Like the show? Support the show on Patreon or Substack!
+Email your thoughts, comments, and questions to anthony@mainenginecutoff.com
+Follow @WeHaveMECO
+Follow @meco@spacey.space on Mastodon
+Listen to MECO Headlines
+Listen to Off-Nominal
+Join the Off-Nominal Discord
+Subscribe on Apple Podcasts, Overcast, Pocket Casts, Spotify, Google Play, Stitcher, TuneIn or elsewhere
+Subscribe to the Main Engine Cut Off Newsletter
+Artwork photo by Blue Origin
+Work with me and my design and development agency: Pine Works]]></description>
+      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/5f3c0a1f-fe19-41e7-9748-2f7820d3bec6/232ec5f9-c8b1-4198-a24e-3a96d4edfad7/episodes/audio/group/c2eb72f2-b069-495d-a04f-0a891d62c084/group-item/44f22002-6673-48a5-88c9-175bab8d518f/128_default_tc.mp3?aid=rss_feed&amp;feed=Zg9AF5cA" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">d6d58a10-4f84-4a2e-92e2-dac7fbdab178</guid>
+      <pubDate>Fri, 27 Feb 2026 21:24:28 GMT</pubDate>
+      <itunes:duration>1821</itunes:duration>
     </item>
   </channel>
 </rss>
